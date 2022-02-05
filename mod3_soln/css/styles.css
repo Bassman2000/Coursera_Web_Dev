@@ -1,0 +1,41 @@
+#main-content {
+	background-color: #AAAAAA;
+	margin: 35px;	
+	color: black;
+	margin-right: 15px;
+	margin-left: 15px;		
+	padding-right: 15px;	
+	padding-left: 15px;	
+	padding-top: 5px;
+	padding-bottom: 15px;	
+}
+
+.navbar-default {	
+	background-color: #AAAAAA;
+	border-width: 2px;
+	border-color: #000;
+}
+
+.navbar-default .navbar-brand {
+	color: black;
+	font-size: x-large;	
+}
+
+.navbar-default .navbar-toggle {
+	border-color: black;
+	border-width: 2px;
+}
+
+#collapsable-nav.navbar-collapse.collapse {
+	padding-right: -15px;
+	padding-left: -15px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: black;	
+}
+
+li {
+	width: 100% !important; 
+	border: 1px solid black;
+}
